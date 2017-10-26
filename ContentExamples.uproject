@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.17",
 	"Category": "Samples",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ContentExamples",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
